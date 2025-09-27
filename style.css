@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+.Goals img {
+    border-radius: 10px;
+}
+
+.body {
+    border-radius: 10px;
+    background-color: violet;
+}
