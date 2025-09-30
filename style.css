@@ -11,3 +11,7 @@ body {
     border-radius: 10px;
     background-color: violet;
 }
+
+img.imgho:hover {
+    width: 350px;
+}
